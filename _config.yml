@@ -1,3 +1,4 @@
-theme: jekyll-theme-cayman
 title: The Poor Man's Reflectivity Test
 description: Measuring the reflectivity of a telescope mirror with a camera, a scrap of Teflon, and a flashlight
+plugins:
+  - jekyll-seo-tag
